@@ -1,0 +1,1 @@
+hi this is the first time i wrote something like this on git
